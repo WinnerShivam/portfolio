@@ -125,7 +125,7 @@ header {
 }
 
 .hero_top_section .hero_image {
-      bottom: -180px;
+      /*bottom: -180px;*/
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
@@ -133,7 +133,7 @@ header {
 }
 
 .hero_image img {
-      width: 500px;
+      width: 300px;
 }
 
 .hero_bg {
