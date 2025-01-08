@@ -58,7 +58,7 @@
       }
 
       .hero_top_section {
-            height: 865px;
+            height: auto;
             margin-top: -2px;
             flex-direction: column;
             justify-content: center;
@@ -126,7 +126,7 @@
       }
 
       #hero_user_name {
-            font-size: 3.2rem;
+            font-size: 2.6rem;
       }
 
       .hero_top_section .hero_image {
@@ -299,7 +299,7 @@
       }
 
       .hero_top_section {
-            height: 907px;
+            height: auto;
       }
 
       .nav_links.flex-space {
@@ -320,8 +320,8 @@
             position: relative;
             left: 50%;
             transform: translateX(-50%);
-            bottom: 258px;
-        margin-top: 260px;
+                    bottom: 110px;
+        margin-top: 140px;
       }
 
       .hero_image img {
